@@ -1,2 +1,1 @@
-# curso-programacao
-Curso de Programação
+# Curso de Programação
